@@ -11,8 +11,8 @@ Automates booking of **Village Square Branch** study rooms at San Jose Public Li
 ## Accounts
 | Account | Library Card |
 |---------|-------------|
-| Account 1 | 21197912155248 |
-| Account 2 | 21197911113594 |
+| Account 1 | 211xxxxxxxxxxx |
+| Account 2 | 211xxxxxxxxxxx |
 
 ## SJPL Booking Rules
 - Max **2 hours** per day per account
