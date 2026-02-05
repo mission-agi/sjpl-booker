@@ -1,0 +1,36 @@
+{
+  "accounts": [
+    {
+      "name": "Account 1",
+      "library_card": "21197912155248",
+      "pin": ""
+    },
+    {
+      "name": "Account 2",
+      "library_card": "21197911113594",
+      "pin": ""
+    }
+  ],
+  "target_rooms": [
+    {
+      "name": "Group Study Room 1 - Village Square",
+      "space_id": 131580,
+      "url": "https://booking.sjlibrary.org/space/131580"
+    },
+    {
+      "name": "Group Study Room 2 - Village Square",
+      "space_id": 131582,
+      "url": "https://booking.sjlibrary.org/space/131582"
+    }
+  ],
+  "preferences": {
+    "preferred_times": ["10:00", "12:00", "14:00", "16:00"],
+    "booking_duration_hours": 2,
+    "max_days_ahead": 4,
+    "headless": false,
+    "slow_mode": false,
+    "screenshot_on_error": true
+  },
+  "base_url": "https://booking.sjlibrary.org",
+  "branch_rooms_url": "https://booking.sjlibrary.org/reserve/spaces/branch-study-rooms"
+}
